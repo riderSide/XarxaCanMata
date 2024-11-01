@@ -1,0 +1,8 @@
+config.ini
+__pycache__
+run.sh
+.venv
+firmware/
+flask_session/
+.vscode/
+.env
